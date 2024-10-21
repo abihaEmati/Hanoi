@@ -17,10 +17,13 @@ void T(int p,char A, char B,char C)
 
 
 
+<<<<<<< HEAD
+=======
 
 
 	print("amenechang");
 	
+>>>>>>> fdc0617dd685a751314535b27a5b5a6593a403a4
 	
 
 }
