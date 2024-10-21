@@ -14,8 +14,7 @@ void T(int p,char A, char B,char C)
 	T(p+1,A,C,B);
 	cout<<p<<" "<<A<<" "<<C<<endl;
 	T(p+1,B,A,C);
-	print("khj");
-	print("fdfdfd");
+	
 
 }
 
