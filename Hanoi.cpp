@@ -19,7 +19,7 @@ void T(int p,char A, char B,char C)
 
 
 
-	print("fffffff");
+	print("amenechang");
 	
 	
 
