@@ -17,7 +17,7 @@ void T(int p,char A, char B,char C)
 
 }
 
-
+print ("vvvv");
 int main()
 { 
 	int p=1;
