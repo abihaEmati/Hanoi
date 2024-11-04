@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 int n;
+
+
 void T(int p,char A, char B,char C)
 { 
   
@@ -18,6 +20,8 @@ void T(int p,char A, char B,char C)
 }
 
 print ("vvvv");
+print (" mmm");
+
 int main()
 { 
 	int p=1;
